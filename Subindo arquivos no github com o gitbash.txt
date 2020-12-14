@@ -1,0 +1,10 @@
+Subindo arquivos parar o GitHub
+
+1° Criar o diretorio no GitHub
+2°Abrir a pasta do arquivos, clicar botão direto e selecionar GitBash Here
+3° git init
+4° git status   - para mostrar os arquivos
+5° git add .
+6° git commit -m "nome do envio"
+7° git remote add origin LinkDoGitHub
+8° git push origin master
